@@ -5,7 +5,7 @@
 
 ### Learnings from the project
 
- 1. Defining functions and calling functions.
+ 1. Defining functions and calling functions.</br>
 2.Extracting the particular values.
 and much more.
 
